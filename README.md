@@ -1,26 +1,55 @@
 ## Hi there 👋
 
-## 🛠️ Tech Stack
+<div align="center">
 
-### Languages & Frameworks
+  <h3>💻 Languages & Frameworks</h3>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css&theme=dark" />
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+  <h3>🛠 Tools & Services</h3>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,supabase,vercel,figma&theme=dark" />
 
-### Tools & Services
+  <h3>🌱 Currently Learning</h3>
+  <img src="https://skillicons.dev/icons?i=astro,docker&theme=dark" />
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+</div>
+<br>
 
-### Currently Learning
+<h2 align="center">📈 GitHub Activities</h2>
 
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Gaku-Fujioka&show_icons=true&theme=github_dark"
+    height="160"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaku-Fujioka&layout=compact&theme=github_dark"
+    height="160"
+    alt="Top Languages"
+  />
+</p>
+
+<br>
+
+<h2 align="center">🌱 Contribution Graph</h2>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gaku-Fujioka&theme=github_dark"
+    width="90%"
+    alt="GitHub Activity Graph"
+  />
+</p>
+
+<br>
+
+<hr>
+
+<div align="center">
+
+  <h3>Thanks for stopping by! 🐾</h3>
+
+</div>
 <!--
 **Gaku-Fujioka/Gaku-Fujioka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
